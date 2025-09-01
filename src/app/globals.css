@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Seus estilos customizados abaixo */
+.section-heading {
+  @apply font-figtree font-bold leading-[120%] tracking-[-0.01em] text-[22px] sm:text-[28px] md:text-[36px];
+}
+
+html {
+  scroll-behavior: smooth;
+}
