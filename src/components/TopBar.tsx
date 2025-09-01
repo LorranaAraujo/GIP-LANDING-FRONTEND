@@ -38,7 +38,7 @@ export default function TopBar() {
               { name: "Diálogos", href: "https://dialogos.seplan.pi.gov.br" },
               { name: "OPA", href: "https://opa.seplan.pi.gov.br" },
               { name: "dadosPI", href: "https://dados.seplan.pi.gov.br" },
-              { name: "Pactos pelo Piauí", href: "/pactos" },
+              { name: "Pactos pelo Piauí", href: "https://pactospelopiaui.seplan.pi.gov.br/" },
               { name: "Retribuir", href: "/retribuir" },
               { name: "PSI", href: "/psi" },
               { name: "Pilares", href: "/pilares" }
@@ -75,7 +75,7 @@ export default function TopBar() {
               { name: "Diálogos", href: "https://dialogos.seplan.pi.gov.br" },
               { name: "OPA", href: "https://opa.seplan.pi.gov.br" },
               { name: "dadosPI", href: "https://dados.seplan.pi.gov.br" },
-              { name: "Pactos pelo Piauí", href: "/pactos" },
+              { name: "Pactos pelo Piauí", href: "https://pactospelopiaui.seplan.pi.gov.br/" },
               { name: "Retribuir", href: "/retribuir" },
               { name: "PSI", href: "/psi" },
               { name: "Pilares", href: "/pilares" }
